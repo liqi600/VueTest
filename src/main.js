@@ -10,5 +10,3 @@ new Vue({
   store,
   render: h => h(App)
 })
-
-////22333111111111111
